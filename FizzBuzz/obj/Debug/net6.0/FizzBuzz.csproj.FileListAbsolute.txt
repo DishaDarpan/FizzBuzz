@@ -1,0 +1,15 @@
+C:\Training2\fizzbuzz-cs\FizzBuzz\bin\Debug\net6.0\FizzBuzz.exe
+C:\Training2\fizzbuzz-cs\FizzBuzz\bin\Debug\net6.0\FizzBuzz.deps.json
+C:\Training2\fizzbuzz-cs\FizzBuzz\bin\Debug\net6.0\FizzBuzz.runtimeconfig.json
+C:\Training2\fizzbuzz-cs\FizzBuzz\bin\Debug\net6.0\FizzBuzz.dll
+C:\Training2\fizzbuzz-cs\FizzBuzz\bin\Debug\net6.0\FizzBuzz.pdb
+C:\Training2\fizzbuzz-cs\FizzBuzz\obj\Debug\net6.0\FizzBuzz.csproj.AssemblyReference.cache
+C:\Training2\fizzbuzz-cs\FizzBuzz\obj\Debug\net6.0\FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Training2\fizzbuzz-cs\FizzBuzz\obj\Debug\net6.0\FizzBuzz.AssemblyInfoInputs.cache
+C:\Training2\fizzbuzz-cs\FizzBuzz\obj\Debug\net6.0\FizzBuzz.AssemblyInfo.cs
+C:\Training2\fizzbuzz-cs\FizzBuzz\obj\Debug\net6.0\FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Training2\fizzbuzz-cs\FizzBuzz\obj\Debug\net6.0\FizzBuzz.dll
+C:\Training2\fizzbuzz-cs\FizzBuzz\obj\Debug\net6.0\refint\FizzBuzz.dll
+C:\Training2\fizzbuzz-cs\FizzBuzz\obj\Debug\net6.0\FizzBuzz.pdb
+C:\Training2\fizzbuzz-cs\FizzBuzz\obj\Debug\net6.0\FizzBuzz.genruntimeconfig.cache
+C:\Training2\fizzbuzz-cs\FizzBuzz\obj\Debug\net6.0\ref\FizzBuzz.dll
